@@ -11,4 +11,5 @@ Google Sheets API + PHP fejlesztés.
 
 ## Alap funkciók
 - PHP futtatása CLI be
+- HTML/Java Script verziójú API
 - Google Spreadsheet parancsok futtatása (Lekérdezés, Frissítés, Törlés)
