@@ -4,4 +4,5 @@ A Google Drive API-t PHP, Java script, html segítségével implementáljuk.
 
 #2 Jelenlegi helyzet:
 A Google API tanulása és tesztelése...
-
+Az alkalmazás alapjai már elkészültek, egy kezdetleges felület már elérhető.
+Jelenleg a keresési opció kidolgozása van folyamatban.
